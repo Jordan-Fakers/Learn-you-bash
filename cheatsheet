@@ -1,0 +1,25 @@
+commande terminal :
+- pwd : permet de trouver l'emplacement actuel du terminal
+- cd : permet de diriger le terminal vers le dossier souhaité
+- clear : permet de nettoyer le terminal
+- ls : affiche la liste des dossier et fichier du répertoire actuel
+- ls -a : montre l'intégralité des fichier du répertoire actuel
+- ls -R : permet d'afficher tout l'arborescence du répertoire 
+- mkdir : permet de créer un dossier
+- touch : permet de créer un fichier
+- nano : permet de modifier le fichier directement du terminal
+- git status : affiche l'état actuel du fichier git
+- git init : initialise le dossier comme un répertoire git
+- git add : ajouter les fichier au répertoire git
+- git commit -m :
+- git remote add Origin : ajoute une version au répertoire git
+- git diff : montre les différences entre les versions du répertoire git
+- git push/origin master : pousse la version du projet sur la branche master du répertoire git
+- git clone : clone le répertoire git sur la machine de l'utilisateur
+- git pull : récupère la dernière version du répertoire git
+- mv : déplace un dossier ou un fichier du répertoire
+- rm : supprime un fichier
+- rm -r : supprime un dossier
+- cat : permet d'accéder a un dossier
+- cp : copie un dossier ou un fichier
+- open : ouvre un fichier sur le logiciel actuel
